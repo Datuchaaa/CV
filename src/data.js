@@ -74,7 +74,7 @@ export const projectsData = [
     title: "Context Menu",
     cover: "thumbnails/6.png",
     stage: "Production",
-    tecnologies: ["React", "Sass",],
+    tecnologies: ["React", "Sass"],
     url: "https://github.com/Datuchaaa/ol-academy-context-menu/tree/main/ol-academy-context-menu",
     client: "Ol-Academy",
   },
@@ -96,7 +96,6 @@ export const projectsData = [
     tecnologies: ["React", "Reactstrap"],
     url: "https://github.com/Datuchaaa/Forms",
   },
-  
 ];
 
 export const contacts = [
@@ -127,5 +126,7 @@ export const contacts = [
 ];
 
 export const about = {
-  bio: `<p>I am Davit Vashakmadze, residing in Kutaisi, Georgia, Lorem ipsum dolor sit amet consectetur adipisicing elit. Et quaerat qui corrupti beatae quibusdam dolorem reiciendis labore facere distinctio fuga, similique accusamus laudantium nam harum! Tempore accusamus suscipit sit aliquid.</p>`,
+  bio: `<p>I am Davit Vashakmadze,  independent Front End Developer with around a year of experience residing in Kutaisi, Georgia.
+  Passionate engineer, who is able to accomplish multiple
+  tasks at ease, without compromising on quality.</p>`,
 };
