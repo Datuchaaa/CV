@@ -126,7 +126,7 @@ export const contacts = [
 ];
 
 export const about = {
-  bio: `<p>I am Davit Vashakmadze,  independent Front End Developer with around a year of experience residing in Kutaisi, Georgia.
+  bio: `<p>independent Front End Developer with around a year of experience residing in Kutaisi, Georgia.
   Passionate engineer, who is able to accomplish multiple
   tasks at ease, without compromising on quality.</p>`,
 };
